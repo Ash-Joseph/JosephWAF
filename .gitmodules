@@ -1,0 +1,6 @@
+[submodule "libs/ModSecurity"]
+	path = libs/ModSecurity
+	url = https://github.com/SpiderLabs/ModSecurity.git
+[submodule "libs/coreruleset"]
+	path = libs/coreruleset
+	url = https://github.com/coreruleset/coreruleset.git
